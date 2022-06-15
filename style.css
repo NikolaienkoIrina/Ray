@@ -1,0 +1,130 @@
+header {
+    height: 966px;
+	background-image: url("image/header-bg.png");
+    background-size: cover;
+    background-position: center;
+}
+
+/*.graphic {position: relative;}
+
+.graphic img {position: absolute;
+top: -250px;
+}*/
+
+
+.carousel-inner {height: 500px;
+overflow: hidden;}
+
+.title-text {z-index: 999;}
+
+sup {font-family: 'Fira Mono', monospace;
+font-size: 28px;
+font-weight: 300;}
+
+h1, h2, h3 {font-family: 'Fira Mono', monospace;
+font-weight: 500;
+}
+
+button {background-color: #E0013F;
+}
+
+/*h1 {font-size: 86px;}
+h3 {font-size: 46px;}
+h2 {font-size: 76px;}
+h4 {font-size: 36px;}*/
+
+.sec3 {background-image: 
+	url(image/14.png),
+	url(image/rectangle-blue.png),
+	                     url(image/12.png);
+	                     
+       background-position:bottom left, top left, top right;
+       background-repeat: no-repeat, no-repeat, no-repeat;
+     
+       height: 1220px;
+       }
+
+    
+
+.baner {background-image: url(image/rectangle1.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 352px;
+        margin-top: -85px;
+    } 
+
+/*.forma {margin-top: -80px;}*/
+.forma p {font-size: 32px;} 
+
+.sec3-elem {height: 270px;
+color: #E0013F;}
+
+
+.sec4 {background-image: url(image/bg-darkblue.png);
+       background-position: top right;
+       background-repeat: no-repeat;
+       height: 1290px;
+       margin-top: -292px;
+}      
+.element p {font-size: 20px;
+  }
+
+.element img {height: 300px;}  
+
+
+.sec5 {background-image: url(image/rectangle2.png);
+        background-repeat: no-repeat;
+        background-position: top left;
+        margin-top: -115px;}
+
+
+.carousel-item__review {height: 350px;}
+
+.carousel-item {background-color: #F1F7FF;
+height: 400px;}
+
+.carousel-item p {max-width: 600px;} 
+
+.sec6 {background-image: url(image/11.png),
+	    url(image/14.png);
+        background-repeat: no-repeat;
+        background-position: bottom left, top right;
+        height: 800px;
+        }
+
+.sec7 {background-image:  
+	url(image/rectangle3.png),
+	url(image/map.png);
+	background-repeat: no-repeat;
+    background-position: top, bottom;
+    height: 1000px;
+    margin-top: -200px;} 
+
+.sec7__logo {margin-top: 235px;}
+
+.sec8 {background-image:  
+	url(image/7.png),
+	url(image/8.png);
+	background-repeat: no-repeat;
+    background-position: top left, bottom right;
+    margin-top: -200px;
+    height: 600px;
+    }
+
+.sec8 button {margin-top: 60px;}    
+
+.sec9 {background-color: #E0013F;}
+
+.booking {color: #333333;
+font-size: 14px;}
+
+.booking input {
+border-color: #333333;}  
+
+.agree {
+	color: #10102E;
+	font-size: 12px;
+}    
+
+/*.carousel-inner {height: 400px;
+} */  
